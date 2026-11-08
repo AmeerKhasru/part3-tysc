@@ -1,0 +1,11 @@
+# compiled output
+dist/
+
+# dependencies
+node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.log
+.DS_Store
